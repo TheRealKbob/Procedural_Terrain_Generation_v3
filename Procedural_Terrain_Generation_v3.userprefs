@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.AttachToProcess" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/ProceduralTerrainGenerator/Editor/NoiseMapGeneratorEditor.cs">
+    <Files>
+      <File FileName="../PlanetaryTerrainGenerator_stable/Assets/PlanetaryTerrainGenerator/Environment/TerrainChunk.cs" Line="27" Column="15" />
+      <File FileName="Assets/ProceduralTerrainGenerator/Controller/NoiseMapGenerator.cs" Line="8" Column="3" />
+      <File FileName="Assets/ProceduralTerrainGenerator/Editor/NoiseMapGeneratorEditor.cs" Line="1" Column="1" />
+      <File FileName="../PlanetaryTerrainGenerator_stable/Assets/PlanetaryTerrainGenerator/Controller/EndlessTerrainGenerator.cs" Line="37" Column="67" NotebookId="1" />
+      <File FileName="../PlanetaryTerrainGenerator_stable/Assets/PlanetaryTerrainGenerator/Controller/NoiseMapGenerator.cs" Line="116" Column="52" NotebookId="1" />
+      <File FileName="../PlanetaryTerrainGenerator_stable/Assets/PlanetaryTerrainGenerator/Editor/NoiseMapGeneratorEditor.cs" Line="16" Column="33" NotebookId="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
